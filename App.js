@@ -88,7 +88,6 @@ const App = () => {
         return (
           <FinalStepScreen
             formData={formData}
-            handleInputChange={handleInputChange}
           />
         );
 
